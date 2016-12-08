@@ -1,0 +1,11 @@
+[
+    {
+        "caption": "Laravel Artisan 5: Make:Controller --resource",
+        "command": "laravel5_artisan",
+        "args": {
+            "command": "make:controller --resource",
+            "fill_in": true,
+            "fill_in_lable": "Enter the name of the controller class"
+        }
+    }
+]

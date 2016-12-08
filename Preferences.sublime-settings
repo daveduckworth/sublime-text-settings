@@ -1,0 +1,46 @@
+{
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme",
+    "default_line_ending": "unix",
+    "detect_indentation": false,
+    "ensure_newline_at_eof_on_save": true,
+    "file_exclude_patterns":
+    [
+        ".DS_Store",
+        "Desktop.ini",
+        "*.pyc",
+        "._*",
+        "Thumbs.db",
+        ".Spotlight-V100",
+        ".Trashes"
+    ],
+    "folder_exclude_patterns":
+    [
+        ".git",
+        "node_modules"
+    ],
+    "font_face": "Fira Code",
+    "font_size": 15,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "indent_guide_options":
+    [
+        "draw_active",
+        "draw_normal"
+    ],
+    "line_numbers": false,
+    "line_padding_bottom": 10,
+    "line_padding_top": 10,
+    "margin": 0,
+    "overlay_scroll_bars": "enabled",
+    "show_panel_on_build": false,
+    "tab_size": 4,
+    "theme": "Material-Theme.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "use_simple_full_screen": true,
+    "word_wrap": false
+}

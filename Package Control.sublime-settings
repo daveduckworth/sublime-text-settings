@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Colorsublime",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Laravel 5 Artisan",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"SimplePHPUnit",
+		"SublimeLinter",
+		"SublimeLinter-php"
+	]
+}

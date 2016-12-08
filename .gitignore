@@ -1,0 +1,12 @@
+# Ignore all files
+/*
+
+# Include specific Sublime Text settings files
+!.gitignore
+!Laravel 5 Artisan.sublime-commands
+!Package Control.sublime-settings
+!Preferences.sublime-settings
+!PSR-2.sublime-build
+!/SublimeLinter
+!SublimeLinter.sublime-settings
+
