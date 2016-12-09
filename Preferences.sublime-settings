@@ -2,7 +2,6 @@
     "bold_folder_labels": true,
     "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
     "default_line_ending": "unix",
-    "detect_indentation": false,
     "ensure_newline_at_eof_on_save": true,
     "file_exclude_patterns":
     [
