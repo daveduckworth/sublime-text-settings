@@ -3,6 +3,7 @@
 
 # Include specific Sublime Text settings files
 !.gitignore
+!Default (OSX).sublime-keymap
 !Laravel 5 Artisan.sublime-commands
 !Package Control.sublime-settings
 !Preferences.sublime-settings
